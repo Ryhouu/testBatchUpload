@@ -29,3 +29,5 @@ npm install body-parser cors express mongoose nodemon
 npm start
 ```
 
+### Reference
+https://github.com/adrianhajdin/project_mern_memories
